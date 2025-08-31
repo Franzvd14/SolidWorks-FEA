@@ -7,6 +7,6 @@ The factor of safety was internally discusses to be 2, and the yield stress was 
 
 The following presentation demostrates the scope of the project, and shows a sequencial process of "fine-tuning" the design.
 
-[SolidWorks FEA Presentation)]()
+[SolidWorks FEA Presentation)](https://github.com/Franzvd14/SolidWorks-FEA/blob/main/Solid%20Mechanics%20Final%20Presentation.pdf)
 
 
